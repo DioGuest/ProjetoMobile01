@@ -1,0 +1,13 @@
+[
+    {
+      "quote": "A imaginação é mais importante que o conhecimento.",
+      "author": "Albert Einstein",
+      "image": "./assets/einstein.png"
+    },
+    {
+      "quote": "Seu trabalho vai preencher uma grande parte da sua vida.",
+      "author": "Steve Jobs",
+      "image": "./assets/steve_jobs.png"
+    }
+  ]
+  
